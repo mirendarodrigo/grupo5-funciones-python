@@ -12,4 +12,4 @@
 ---
 
 📚 *Trabajo práctico realizado en la asignatura “Metodología de Sistemas II”*  
-💻 *Incluye ejercicios de funciones en Python y sus pruebas unitarias con pytest.*
+💻 *Incluye ejercicios de funciones en Python y sus pruebas unitarias.*
