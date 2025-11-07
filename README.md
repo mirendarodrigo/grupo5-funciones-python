@@ -1,2 +1,15 @@
-# grupo5-funciones-python
-Repo para practiica De Metodologias de Sistemas 2
+# 🧩 Práctica de Funciones y Test — Grupo 5
+
+---
+
+## 👥 Integrantes
+
+- **Mirenda Rodrigo**  
+- **Cabral Cristian**  
+- **De Asis Natalia**  
+- **Valdala Franco**
+
+---
+
+📚 *Trabajo práctico realizado en la asignatura “Metodología de Sistemas II”*  
+💻 *Incluye ejercicios de funciones en Python y sus pruebas unitarias con pytest.*
