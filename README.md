@@ -7,7 +7,7 @@
 - **Mirenda Rodrigo**  
 - **Cabral Cristian**  
 - **De Asis Natalia**  
-- **Valdala Franco**
+- **Vadala Franco**
 
 ---
 
