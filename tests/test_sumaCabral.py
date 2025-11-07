@@ -1,4 +1,6 @@
 #tests/test_sumar.py 
+import sys, os
+sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 from funciones.sumaCabral import sumar 
 
 def test_sumar(): 
