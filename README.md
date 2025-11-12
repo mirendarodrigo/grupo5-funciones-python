@@ -8,6 +8,7 @@
 - **Cabral Cristian**  
 - **De Asis Natalia**  
 - **Vadala Franco**
+- **Gomez Ivan**
 
 ---
 
